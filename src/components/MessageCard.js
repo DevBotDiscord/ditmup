@@ -181,12 +181,12 @@ const CustomHeart = ({ color }) => (
 );
 
 const messages = [
-    "Gửi đến người phụ nữ tuyệt vời nhất trong cuộc đời anh, em mang đến niềm vui và hạnh phúc cho mỗi ngày.",
-    "Nụ cười của em thắp sáng thế giới của anh, và tình yêu của em lấp đầy trái tim anh bằng sự ấm áp.",
-    "Vào ngày đặc biệt này, anh muốn em biết em có ý nghĩa như thế nào đối với anh.",
-    "Em không chỉ là bạn gái của anh, em là bạn thân nhất của anh, là người bạn tâm giao và là tất cả của anh.",
-    "Anh trân trọng từng khoảnh khắc chúng ta bên nhau, và anh mong muốn tạo ra nhiều kỷ niệm đẹp hơn nữa.",
-    "Chúc mừng Ngày Phụ nữ, tình yêu của anh! Em xứng đáng có được tất cả hạnh phúc trên thế giới này."
+  "💖 Gửi đến bé dịt (người con gái anh yêu thương nhất), em là món quà 🎁 tuyệt vời nhất mà cuộc sống đã ban tặng cho anh. 🌸💕",
+  "😊 Mỗi ngày có em là mỗi ngày tràn đầy hạnh phúc 💕, tiếng cười của em là bản nhạc 🎶 đẹp nhất trong trái tim anh. ❤️🎵",
+  "🌹 Hôm nay là ngày đặc biệt dành cho em, nhưng với anh, mỗi ngày có em đều là một ngày đáng trân trọng. 💞💫",
+  "💑 Em không chỉ là tình yêu ❤️ của anh, mà còn là nguồn động lực 💪, là người đồng hành tuyệt vời nhất trong cuộc sống này. 🚀💖",
+  "⏳ Anh cảm thấy may mắn 🍀 khi có em bên cạnh, và anh sẽ luôn trân trọng từng giây phút ⌛ mà chúng ta có cùng nhau. ❤️💞",
+  "🎉 Chúc mừng Ngày Quốc tế Phụ nữ, tình yêu của anh! 🌸👑 Mong rằng mọi điều tốt đẹp nhất 🌈💖 luôn đến với em, vì em xứng đáng có được tất cả. 💕🥳"
 ];
 
 // Then update the MessageCard component to accept and pass the prop:
